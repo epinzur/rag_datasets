@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "spaceships"
+version = "0.1.0"
+description = ""
+authors = ["Eric Pinzur <epinzur@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^1.35.13"
+python-dotenv = "^1.0.1"
+requests = "^2.32.3"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.2"
+isort = "^5.13.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
