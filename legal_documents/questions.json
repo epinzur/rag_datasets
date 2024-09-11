@@ -1,0 +1,81 @@
+{
+    "questions": [
+      {
+        "question": "What are the consequences if the Developer fails to meet the Phase 2 delivery date?",
+        "answer": "If the Developer fails to meet the Phase 2 delivery date of December 15, 2024, as specified in the Software Development Agreement (SDA) Section 3.1, the Client may impose penalties or seek remedies as outlined in SDA Section 6.2."
+      },
+      {
+        "question": "Who owns the AI models developed during the project, and what conditions apply to their licensing?",
+        "answer": "According to the Intellectual Property Licensing Agreement (IPLA) Section 2.3, upon full payment as outlined in SDA Section 5, the Client receives full ownership of the AI models developed. Additionally, IPLA Section 3.1 grants the Client a perpetual, non-exclusive, royalty-free license to use, modify, and distribute the Licensed IP, provided it is used solely in connection with the AI-Powered Customer Support Tool and modifications retain a reference to the original Developer."
+      },
+      {
+        "question": "If confidential information is disclosed to a third party without consent, what agreements are violated and what are the possible repercussions?",
+        "answer": "Disclosing confidential information without consent violates the Non-Disclosure Agreement (NDA) Section 2.1 and the Software Development Agreement (SDA) Section 7.1. As per NDA Section 5.2 and SDA Section 6.1, the Client may terminate the SDA and seek legal remedies, including injunctive relief and damages."
+      },
+      {
+        "question": "What is the maximum service credit the Client can receive in a month if the Developer fails to meet both uptime and response time commitments?",
+        "answer": "As specified in the Service Level Agreement (SLA) Section 5.3, the maximum total service credit the Client can receive in any given month is 20% of the monthly service fee, regardless of the number of uptime and response time failures."
+      },
+      {
+        "question": "Under what conditions can the SLA be terminated without penalty, and which section of the SDA does this relate to?",
+        "answer": "The SLA can be terminated without penalty if the Developer fails to meet the uptime or support commitments for three consecutive months, as outlined in SLA Section 6.1. This termination is related to the Software Development Agreement (SDA) Section 6.1, which covers termination for breach."
+      },
+      {
+        "question": "How long do the confidentiality obligations survive after the termination of the Software Development Agreement?",
+        "answer": "The confidentiality obligations survive for three years after the termination or expiration of the Software Development Agreement, as stated in the NDA Section 4.2 and reinforced by the SDA Section 7.2."
+      },
+      {
+        "question": "What steps must the Developer take if they need to disclose Confidential Information due to a court order?",
+        "answer": "If the Developer needs to disclose Confidential Information due to a court order, as per NDA Section 2.3, they must provide the Disclosing Party with prompt written notice and a reasonable opportunity to object to or limit such disclosure. This ensures compliance with both the NDA and the Software Development Agreement."
+      },
+      {
+        "question": "What payment terms must be fulfilled before the Client gains full ownership of the Deliverables?",
+        "answer": "The Client must fulfill the payment terms outlined in SDA Section 5 by completing all milestone payments: 30% upon Phase 1 completion, 30% upon Phase 2 completion, and the final payment upon Phase 3 completion and acceptance of all Deliverables as per Section 3.3. Upon full payment, ownership of the Deliverables transfers to the Client, as detailed in IPLA Section 2.3."
+      },
+      {
+        "question": "In the event of a breach of the NDA, which sections of the SDA and IPLA are triggered, and what are the consequences?",
+        "answer": "A breach of the NDA triggers SDA Section 6.3 and IPLA Section 5.1. According to SDA Section 6.3, the Client may terminate the Software Development Agreement and seek remedies as described in SDA Section 7.2. IPLA Section 5.1 requires the Client to protect the Licensed IP, and a breach could lead to termination of the license as per IPLA Section 6.1."
+      },
+      {
+        "question": "What obligations does the Client have regarding the Licensed IP after project completion?",
+        "answer": "After project completion and full payment as per SDA Section 5, the Client owns the Licensed IP as per IPLA Section 2.3. The Client is granted a perpetual, non-exclusive, royalty-free license to use, modify, and distribute the Licensed IP under the conditions in IPLA Section 3.1 and must protect the confidentiality of the Licensed IP as outlined in IPLA Section 5.2 and the NDA Section 2.1."
+      },
+      {
+        "question": "What is the consequence of breaching confidentiality regarding customer data used in the AI-Powered Customer Support Tool?",
+        "answer": "If the Developer breaches confidentiality regarding customer data, the Client may terminate the Software Development Agreement (SDA) under Section 6.3, as described in Section 5.2 of the NDA."
+      },
+      {
+        "question": "Who retains ownership of the AI models after project completion, and what is required for the ownership to transfer?",
+        "answer": "The Client retains ownership of the AI models after project completion, as outlined in Section 2.3 of the Intellectual Property Licensing Agreement (IPLA). However, ownership only transfers after full payment for the Deliverables, as described in Section 5 of the Software Development Agreement (SDA)."
+      },
+      {
+        "question": "What happens if the Developer fails to meet the agreed uptime for three consecutive months?",
+        "answer": "If the Developer fails to meet the uptime commitment for three consecutive months, the Client may terminate the Service Level Agreement (SLA), as described in Section 6.1 of the SLA. This also allows for termination of post-deployment support as referenced in Section 8.1 of the Software Development Agreement (SDA)."
+      },
+      {
+        "question": "What customer data must be protected under the confidentiality agreement, and what agreement defines this obligation?",
+        "answer": "The customer data that must be protected is considered confidential information, as defined in Section 1.1 of the Non-Disclosure Agreement (NDA). This obligation is also referenced in Section 7.1 of the Software Development Agreement (SDA)."
+      },
+      {
+        "question": "What is the maximum service credit the Client can receive for failed response times, and how does this relate to the overall service credit cap?",
+        "answer": "The maximum service credit for each failed response time is 5% of the monthly service fee, as described in Section 5.2 of the SLA. However, the total service credit for any given month cannot exceed 20% of the monthly service fee, as stated in Section 5.3 of the SLA."
+      },
+      {
+        "question": "How does the SLA handle penalties for downtime, and where in the SDA is this credit applied?",
+        "answer": "The SLA outlines that for uptime below 99.9%, the Client is entitled to a service credit of 5% of the monthly service fee, and for uptime below 99.5%, a 10% credit, as described in Section 5.1 of the SLA. These service credits are applied to the Client's payments in the next billing cycle, as outlined in Section 5.1 of the Software Development Agreement (SDA)."
+      },
+      {
+        "question": "What happens if the Client wants to modify the AI models after delivery, and what is the Developer’s right to any improvements?",
+        "answer": "The Client is allowed to modify the AI models after delivery, as stated in Section 4.1 of the Intellectual Property Licensing Agreement (IPLA). However, the Developer retains the right to any improvements made to the models after the conclusion of the project, as outlined in Section 4.2 of the IPLA."
+      },
+      {
+        "question": "What are the Client’s obligations if they modify the AI models, and how does this tie into the NDA?",
+        "answer": "If the Client modifies the AI models, they are required to share significant modifications with the Developer, as outlined in Section 4.1 of the IPLA. The confidentiality of the models, including any modifications, must be protected in accordance with Section 5.1 of the IPLA, which ties back to the confidentiality obligations in Section 2.1 of the NDA."
+      },
+      {
+        "question": "What rights does the Client have to sublicense the AI models, and under what conditions?",
+        "answer": "The Client may not sublicense or transfer the AI models to any third party without prior written consent from the Developer, as described in Section 3.2 of the IPLA. This limitation ensures that the Licensed IP is only used within the context of the AI-Powered Customer Support Tool project, as stated in Section 3.1 of the IPLA."
+      }
+    ]
+  }
+
