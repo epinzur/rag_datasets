@@ -40,6 +40,6 @@ The Licensor’s liability shall not exceed the total amount paid by the End-Use
 
 ---
 
-# Acceptance
+## Acceptance
 
 By using the software, the End-User agrees to the terms of this End-User License Agreement.

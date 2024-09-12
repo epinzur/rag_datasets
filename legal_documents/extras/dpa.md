@@ -49,7 +49,7 @@ In the event of a data breach, the Developer will notify the Client and affected
 
 ---
 
-# Signatures
+## Signatures
 
 **Developer**:
 Name: [John Developer]

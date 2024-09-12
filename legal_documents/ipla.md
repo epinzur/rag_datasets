@@ -99,7 +99,7 @@ This Agreement, together with the Software Development Agreement and the Non-Dis
 
 ---
 
-# Signatures
+## Signatures
 
 **Developer**:
 Name: [John Developer]

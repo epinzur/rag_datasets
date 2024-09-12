@@ -71,7 +71,7 @@ Support will be provided Monday through Friday, from **9 AM to 5 PM (PST)**, wit
 
 ---
 
-# Signatures
+## Signatures
 
 **Developer**:
 Name: [John Developer]

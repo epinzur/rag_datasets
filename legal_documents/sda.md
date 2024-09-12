@@ -129,7 +129,7 @@ This Agreement, along with the NDA, Intellectual Property Licensing Agreement, a
 
 ---
 
-# Appendices
+## Appendices
 
 ### **Appendix A** – **Acceptance Criteria**
 (Define the criteria by which Deliverables will be evaluated for acceptance).

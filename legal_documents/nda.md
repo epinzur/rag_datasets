@@ -92,7 +92,7 @@ This NDA constitutes the entire agreement between the parties with respect to th
 
 ---
 
-# Signatures
+## Signatures
 
 **Developer**:
 Name: [John Developer]

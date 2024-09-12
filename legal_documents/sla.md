@@ -120,7 +120,7 @@ This SLA, together with the **Software Development Agreement** and the **Intelle
 
 ---
 
-# Signatures
+## Signatures
 
 **Developer**:
 Name: [John Developer]

@@ -56,7 +56,7 @@ Licensor may terminate this Agreement if the Licensee fails to comply with any o
 
 ---
 
-# Signatures
+## Signatures
 
 **Licensor**:
 Name: [John Licensor]
