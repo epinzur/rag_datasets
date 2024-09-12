@@ -31,11 +31,11 @@ The party receiving Confidential Information under this Agreement.
 2.1 **Use of Confidential Information**:
 The Receiving Party agrees to:
 - Use the Confidential Information solely for the purpose of fulfilling its obligations under the **Software Development Agreement** (entered into on **September 15, 2024**) between the parties,
-- Not disclose Confidential Information to any third parties without prior written consent of the Disclosing Party, except as permitted in Section 2.3.
+- Not disclose Confidential Information to any third parties without prior written consent of the Disclosing Party, except as permitted in **Section 2.3**.
 
 2.2 **Protection of Confidential Information**:
 The Receiving Party agrees to take all reasonable measures to protect the confidentiality of the Confidential Information, including, but not limited to, ensuring that:
-- Only employees, contractors, or agents who need access to the Confidential Information for the purposes set out in Section 2.1 are given access, and
+- Only employees, contractors, or agents who need access to the Confidential Information for the purposes set out in **Section 2.1** are given access, and
 - Such individuals are bound by confidentiality obligations no less restrictive than those in this Agreement.
 
 2.3 **Permitted Disclosures**:
@@ -47,7 +47,8 @@ Confidential Information may be disclosed to third parties only if:
 
 ## 3. **Exclusions from Confidentiality**
 
-3.1 The obligations of confidentiality under this Agreement do not apply to information that:
+3.1 **Confidentiality**:
+The obligations of confidentiality under this Agreement do not apply to information that:
 - Was known to the Receiving Party prior to its disclosure by the Disclosing Party without an obligation of confidentiality,
 - Becomes publicly available through no breach of this Agreement by the Receiving Party,
 - Is independently developed by the Receiving Party without reference to the Disclosing Party's Confidential Information, as evidenced by written records.
@@ -60,7 +61,7 @@ Confidential Information may be disclosed to third parties only if:
 This Agreement is effective as of **September 15, 2024** and shall continue in effect until the termination of the **Software Development Agreement** between the parties, or until terminated by mutual agreement.
 
 4.2 **Survival**:
-The confidentiality obligations set forth in this Agreement shall survive the termination or expiration of the Agreement for a period of **three (3) years**, as described in Section 7.2 of the Software Development Agreement.
+The confidentiality obligations set forth in this Agreement shall survive the termination or expiration of the Agreement for a period of **three (3) years**, as described in **Section 7.2 of the Software Development Agreement (SDA)**.
 
 ---
 

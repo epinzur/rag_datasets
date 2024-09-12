@@ -1,4 +1,4 @@
-# Intellectual Property Licensing Agreement
+# Intellectual Property Licensing Agreement (IPLA)
 
 **This Intellectual Property Licensing Agreement ("Agreement")** is entered into on this **September 15, 2024**, by and between:
 
@@ -75,7 +75,7 @@ The Client agrees to take reasonable measures to protect the confidentiality of 
 ## 6. **Termination and Breach**
 
 6.1 **Termination of License**:
-The Developer may terminate the license granted under this Agreement if the Client breaches any material term of this Agreement or the **Software Development Agreement**, including failure to make payments as outlined in **Section 5** of that Agreement.
+The Developer may terminate the license granted under this Agreement if the Client breaches any material term of this Agreement or the **Software Development Agreement (SDA)**, including failure to make payments as outlined in **Section 5 of the *Software Development Agreement (SDA)**.
 
 6.2 **Consequences of Termination**:
 Upon termination, the Client shall cease using the Licensed IP and return or destroy all copies of the Licensed IP in its possession.

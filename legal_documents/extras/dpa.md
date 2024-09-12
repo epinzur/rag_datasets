@@ -28,7 +28,7 @@ The Developer agrees to implement a consent mechanism within the app that requir
 All personal data collected by the app will be encrypted in transit and at rest using industry-standard encryption protocols.
 
 2.2 **Access Control**:
-Only authorized personnel from both the Developer and Client teams will have access to user data, in accordance with **Section 4** of the **Non-Disclosure Agreement (NDA)**.
+Only authorized personnel from both the Developer and Client teams will have access to user data, in accordance with **Section 4 Non-Disclosure Agreement (NDA)**.
 
 ---
 
